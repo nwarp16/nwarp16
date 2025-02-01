@@ -39,7 +39,8 @@ My background in computer science and information technology has sparked a stron
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Google_Chronicle_SIEM-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-3c6e71?&style=for-the-badge&logo=suricata&logoColor=white" />
 </div>
 
 ## Certifications
