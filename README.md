@@ -3,7 +3,7 @@
 
 
 
-I’m an IT professional with 3 years of experience, passionate about cybersecurity and committed to continuously expanding my skills in the field.
+I’m an IT professional with 4 years of experience, passionate about cybersecurity and committed to continuously expanding my skills in the field.
 
 ## Objective
 
