@@ -34,7 +34,7 @@ My background in computer science and information technology has sparked a stron
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Suricata-3c6e71?&style=for-the-badge&logo=suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-4e73df?&style=for-the-badge&logo=wazuh&logoColor=white" />
 </div>
 
 ### SIEM
