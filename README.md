@@ -29,18 +29,18 @@ My background in computer science and information technology has sparked a stron
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-3c6e71?&style=for-the-badge&logo=suricata&logoColor=white" />
 </div>
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-3c6e71?&style=for-the-badge&logo=suricata&logoColor=white" />
 </div>
 
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Google_Chronicle_SIEM-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-3c6e71?&style=for-the-badge&logo=suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Chronicle-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
 </div>
 
 ## Certifications
