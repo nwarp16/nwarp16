@@ -11,7 +11,6 @@ I’m an IT professional with 4 years of experience, passionate about cybersecur
 My background in computer science and information technology has sparked a strong interest in cybersecurity. I am now eager to transition into this field, with a specific focus on joining a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
