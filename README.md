@@ -50,5 +50,4 @@ My background in computer science and information technology has sparked a stron
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+
