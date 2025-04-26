@@ -47,6 +47,7 @@ My background in computer science and information technology has sparked a stron
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google_Cybersecurity_Practitioner-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/CompTIA%20Security%2B-4D4D4D?style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
 ## Projects
