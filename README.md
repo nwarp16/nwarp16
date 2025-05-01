@@ -3,12 +3,12 @@
 
 
 
-I’m an IT professional with 4 years of experience, passionate about cybersecurity and committed to continuously expanding my skills in the field.
+I’m a Junior Cybersecurity Engineer & IT professional with 4 years of experience, passionate about cybersecurity and committed to continuously expanding my skills in the field.
 
 ## Objective
 
 
-My background in computer science and information technology has sparked a strong interest in cybersecurity. I am now eager to transition into this field, with a specific focus on joining a Security Operations Center (SOC) as a Tier 1 Analyst.
+My background in computer science and information technology has sparked a strong interest in cybersecurity. Looking to grow my skills and land a position as a SOC Analyst tier 1.
 
 ## Skills
 
